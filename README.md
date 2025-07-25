@@ -26,12 +26,6 @@ A simple and classic Snake Game built using Java Swing. Control the snake using 
 - Java Swing (javax.swing)  
 - AWT event handling  
 - Timer-based game loop  
-
----
-
-## 📁 File Structure
-
-
 ---
 
 ## 🎮 Controls
