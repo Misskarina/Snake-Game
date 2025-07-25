@@ -64,7 +64,7 @@ A simple and classic Snake Game built using Java Swing. Control the snake using 
 ## 🙋‍♀️ Author
 
 Karina Kumari  
-GitHub: https://github.com/your-username  
+GitHub: [https://github.com/your-username](https://github.com/Misskarina)  
 LinkedIn: https://www.linkedin.com/
 
 ---
