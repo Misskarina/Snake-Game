@@ -45,12 +45,6 @@ A simple and classic Snake Game built using Java Swing. Control the snake using 
 
 ---
 
-## 📸 Screenshots
-
-> Add a screenshot below by uploading it to your repo and linking it here
-
----
-
 ## ✅ To-Do (Optional Features)
 
 - [ ] Restart after Game Over  
@@ -65,7 +59,7 @@ A simple and classic Snake Game built using Java Swing. Control the snake using 
 
 Karina Kumari  
 GitHub: [Github](https://github.com/Misskarina)  
-LinkedIn: https://www.linkedin.com/
+LinkedIn:[LinkedIn](https://www.linkedin.com/in/karina-kumari026012/)
 
 ---
 
