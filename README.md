@@ -1,5 +1,5 @@
 
-# 🐍 Snake Game in Java
+## 🐍 Snake Game in Java
 
 A simple and classic Snake Game built using Java Swing. Control the snake using arrow keys, eat food to grow, and avoid hitting the walls or yourself.
 
